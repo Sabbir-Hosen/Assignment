@@ -3,7 +3,7 @@ body{
 }
 section{
     height: 500px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .header{
@@ -51,13 +51,14 @@ section{
 }
 .half_part img{
     width: 80%;
+    padding-top: 50px;
     
 }
 #upre{
-    padding-top: 70px;
+    padding-top: 150px;
 }
 #upre2{
-    padding-top: 80px;
+    padding-top: 150px;
 }
 #cntr{
     font-size: 50px;
@@ -76,7 +77,8 @@ section{
     width: 300px;
 }
 .img_part img{
-    width: 95%;
+    width: 90%;
+    
 }
 .sob_majhe{
     text-align: center;
@@ -94,7 +96,12 @@ section{
 #pd_btm{
     font-size: 50px;
     padding-bottom: 50px;
+    margin-top: 0px;
 }
 #pd_btm2{
     padding-bottom: 40px;
+}
+footer{
+    text-align: center;
+    color: gainsboro;
 }
